@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-bureau
+Exec=harbour-bureau
+Name=Bureau
+Comment=Accueil façon Android : icônes où vous voulez et dossiers
+
+[X-Sailjail]
+OrganizationName=fr.bureau
+ApplicationName=bureau
+Sandboxing=Disabled

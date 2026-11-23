@@ -1,0 +1,7 @@
+*.o
+moc_*
+Makefile*
+.qmake.stash
+RPMS/
+tests/tst_homemodel
+tests/qmlcheck
